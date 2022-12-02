@@ -1,0 +1,101 @@
+﻿Rank,Company,Symbol,Industry,ESG Score,Comp Rtg,RS Rtg,EPS Rtg,SMR Rtg,3-Yr EPS Growth Rate,ROE,Last Qtr Sales % Chg,Last Qtr EPS % Chg,Div Yld
+1,Microsoft,MSFT,Computer Software-Desktop,76.3,99,84,94,A,25%,47%,21%,49%,0.7
+2,Linde,LIN,Chemicals-Specialty,76,94,66,85,B,16,9,19,42,1.3
+3,Accenture,ACN,Computer-Tech Services,75.95,97,84,81,A,9,33,21,26,1
+4,J.B. Hunt,JBHT,Transportation-Trucking,74.14,89,68,81,B,6,21,36,41,0.7
+5,Xylem,XYL,Machinery-Tools & Resources,73.89,87,87,79,B,-8,13,16,65,0.8
+6,Texas Instruments,TXN,Electronics-Semiconductor Mfg,73.14,88,57,90,A,6,58,41,78,2.1
+7,Salesforce.com,CRM,Computer Software-Enterprise,72.92,94,56,87,A,33,12,23,3,n.a.
+8,Gildan Activewear,GIL,Apparel-Clothing Mfg,72.84,87,88,65,C,n.a.,-2,225,169,n.a.
+9,Metropolitan Bank,MCB,Banks-Northeast,72.68,96,96,93,A,23,12,18,21,n.a.
+10,IHS Markit,INFO,Financial Services-Specialty,72.6,93,84,75,A,11,13,15,17,0.7
+11,STMicroelectronics,STM,Electronics-Semiconductor Mfg,72.37,96,79,96,B,1,14,43,340,0.3
+12,Nvidia,NVDA,Electronics-Semiconductor Fabless Mfg,72.19,99,93,97,A,27,43,68,89,0.1
+13,Rogers,ROG,Electronics-Semiconductor Mfg,72.08,93,85,82,B,-1,10,23,52,n.a.
+14,Oracle,ORCL,Computer Software-Database,71.14,93,86,83,A,14,163,8,28,1.4
+15,Motorola Solutions,MSI,Telecom Services-Integrated,70.81,89,87,88,..,9,0,22,49,1.2
+16,Qualcomm,QCOM,Electronics-Semiconductor Fabless Mfg,70.53,91,51,76,A,25,92,65,123,1.9
+17,Sherwin-Williams,SHW,Chemicals-Paints,70.45,91,76,87,A,17,58,17,12,0.7
+18,TE Connectivity,TEL,Electronics-Parts,70.38,94,79,78,A,-5,14,51,203,1.3
+19,Hewlett-Packard,HPE,Computer - Tech Services,70.26,87,76,72,C,7,12,12,70,3.1
+20,Exponent,EXPO,Commercial Services-Consulting,70.12,95,86,89,A,7,20,30,66,0.7
+21,Adobe,ADBE,Computer Software-Desktop,70.06,98,87,94,A,26,41,23,24,n.a.
+22,Matson,MATX,Transportation-Shipping,69.68,99,87,95,A,44,22,67,388,1.5
+23,Stellantis,STLA,Auto Manufacturers,69.22,89,87,73,B,-13,16,291,275,n.a.
+24,Crown Holdings,CCK,Containers/Packaging,68.66,89,66,88,A,11,41,34,61,0.7
+25,Deere,DE,Machinery-Farm,68.58,91,83,97,A,14,23,29,107,1.1
+26,ASML,ASML,Electronics-Semiconductor Equipment,68.41,98,94,96,A,26,27,28,49,0.3
+27,West Fraser Timber,WFG,Building-Wood Products,68.38,92,77,74,A,n.a.,30,310,1183,1
+28,Cabot,CBT,Chemicals-Specialty,68.1,86,51,73,B,-11,14,77,2029,2.6
+29,Moelis & Co.,MC,Finance-Investment Banks,67.76,93,91,81,A,3,45,126,1182,3.9
+30,Advansix,ASIX,Chemicals-Plastics,67.76,89,95,73,B,-11,11,88,273,n.a.
+31,Advanced Micro Devices,AMD,Electronics-Semiconductor Fabless Mfg,67.67,99,84,99,A,82,36,99,250,n.a.
+32,Nike,NKE,Apparel-Shoes & Related Mfg,67.34,90,82,69,A,-2,55,96,282,0.7
+33,Artisan Partners,APAM,Finance-Investment Management,67.1,95,56,88,A,11,168,50,80,7.1
+34,Ball Corp.,BLL,Containers/Packaging,67.05,91,60,85,A,15,32,23,32,0.8
+35,Eaton,ETN,Diversified Operations,66.95,85,85,75,B,-4,12,35,98,1.8
+36,Tradeweb Markets,TW,Financial Services-Specialty,66.9,96,82,87,A,21,8,23,30,0.4
+37,Applied Materials,AMAT,Electronics-Semiconductor Equipment,66.89,94,88,91,A,12,41,41,79,0.7
+38,Fabrinet,FN,Electronic-Contract Mfg,66.86,91,84,83,B,12,17,26,36,n.a.
+39,Vista Outdoor,VSTO,Leisure-Products,66.8,89,90,72,A,953,37,38,241,n.a.
+40,Qiagen,QGEN,Medical-Products,66.73,92,64,89,A,26,19,28,22,n.a.
+41,ASGN,ASGN,Commercial Services-Staffing,66.73,90,82,77,B,3,17,17,25,n.a.
+42,Dover,DOV,Machinery-General Industrial,66.65,96,86,92,A,11,26,36,82,1.1
+43,Thermo Fisher,TMO,Medical-Research Equipment & Services,66.65,95,79,94,A,33,24,34,44,0.2
+44,American Financial Group,AFG,Insurance-Property & Casualty,66.54,91,93,87,B,0,10,6,257,1.4
+45,CNH Industrial,CNHI,Machinery-Construction/Mining,66.53,85,85,76,A,-17,0,60,700,n.a.
+46,Jabil,JBL,Electronic-Contract Mfg,66.52,95,89,97,B,19,24,14,251,0.5
+47,Lam Research,LRCX,Electronics-Semiconductor Equipment,66.47,90,75,94,A,12,71,48,69,1
+48,Eli Lilly,LLY,Medical-Diversified,66.43,94,92,88,A,16,163,23,29,1.3
+49,ON Semiconductor,ON,Electronics-Semiconductor Mfg,66.27,98,88,91,B,-22,10,38,425,n.a.
+50,Altair Engineering,ALTR,Computer Software-Design,66.27,94,85,86,B,-6,9,22,75,n.a.
+51,Apple,AAPL,Telecommunications-Consumer Products,66.15**,97,76,95,A,17,74,36,100,0.6
+52,Arcelor Mittal,MT,Steel-Producers,66.15,92,93,65,C,n.a.,-2,76,1253,n.a.
+53,Fortinet,FTNT,Computer Software-Security,66.07,98,97,92,A,39,51,30,14,n.a.
+54,Alphabet,GOOGL,Internet-Content,65.76,99,91,98,A,15,17,62,189,n.a.
+55,Simon Property Group,SPG,Finance-Property REIT,65.4,85,88,56,B,-23,40,18,127,4.5
+56,Steel Dynamics,STLD,Steel-Producers,65.39,99,93,95,A,-7,14,113,623,1.5
+57,Owens Corning,OC,Building-Construction Products/Misc.,65.36,89,60,91,B,11,13,38,186,1.1
+58,Brinks,BCO,Security/Safety,65.34,89,73,90,A,6,119,27,62,1
+59,NetApp,NTAP,Computer-Data Storage,65.33,89,91,75,A,0,198,12,58,2.2
+60,Ternium,TX,Steel-Producers,65.26,99,97,77,B,-21,9,125,4867,n.a.
+61,Gartner,IT,Commercial Services-Market Research,65.2,99,96,93,B,19,43,20,87,n.a.
+62,Textron,TXT,Aerospace/Defense,65.06,86,89,81,C,-10,8,29,523,0.1
+63,Avery Dennison,AVY,Office Supplies Mfg,64.98,97,87,92,A,12,44,38,77,1.2
+64,Five Below,FIVE,Retail-Discount & Variety,64.86,87,86,85,A,3,14,198,190,n.a.
+65,Chemours Co.,CC,Chemicals-Specialty,64.58,90,77,73,A,-32,44,51,567,3
+66,Mattel,MAT,Leisure-Toys/Games/Hobby,64.54,90,82,58,A,n.a.,40,40,112,n.a.
+67,Kimco Realty,KIM,Finance-Property REIT,64.38,86,84,53,A,26,19,21,-85,3.1
+68,Workday,WDAY,Computer Software-Enterprise,64.3,96,72,95,A,47,25,19,46,n.a.
+69,Yum Brands,YUM,Retail-Restaurants,64.3,88,76,86,n.a.,7,0,34,41,1.5
+70,Asbury Automotive,ABG,Retail/Wholesale-Auto,64.1,97,81,98,A,30,32,79,209,n.a.
+71,Northern Oil & Gas,NOG,Oil & Gas-US Exploration & Production,64.03,90,95,74,B,-30,57,n.a.,338,1.1
+72,Alexandria Real Estate Equities,ARE,Finance-Property REIT,63.89,92,76,75,A,26,7,17,43,2.2
+73,Crane,CR,Diversified Operations,63.75,89,84,79,B,-10,15,24,205,1.7
+74,Mohawk Industries,MHK,Building-Construction Products/Misc.,63.59,91,87,76,B,-9,8,44,1103,n.a.
+75,Costco,COST,Retail-Major Discount Chains,63.52,94,81,87,B,20,26,22,20,0.7
+76,Abbott Labs,ABT,Medical-Diversified,63.51,98,66,94,A,16,21,40,105,1.4
+77,Arista Networks,ANET,Computer-Networking,63.5,97,85,88,A,9,23,31,29,n.a.
+78,First Industrial Realty,FR,Finance-Property REIT,63.25,87,79,81,B,7,11,8,43,1.9
+79,Agilent,A,Medical-Research Equipment/Service,63.23,99,91,90,A,13,21,26,41,0.4
+80,Waste Management,WM,Pollution Control,63.21,92,80,79,A,3,24,26,44,1.5
+81,Danaher,DHR,Medical-Diversified,63.2,98,90,92,A,26,13,36,71,0.3
+82,Darling Ingredients,DAR,Agricultural Operations,63.16,95,89,96,A,77,12,41,200,n.a.
+83,Keysight Technologies,KEYS,Electronics-Scientific/Measuring,63.07,96,90,93,A,22,29,23,29,n.a.
+84,Goldman Sachs,GS,Banks-Money Center,62.93,93,91,94,A,24,13,9,71,1.9
+85,Facebook,FB,Internet-Content,62.86,99,83,97,A,20,25,56,101,n.a.
+86,Wesco International,WCC,Electronics-Parts,62.81,95,93,89,B,10,10,120,99,n.a.
+87,Xilinx,XLNX,Electronics-Semiconductor Fabless Mfg,62.81,94,80,73,A,0,29,21,46,1
+88,Cadence Design Systems,CDNS,Computer Software-Design,62.69,95,85,93,A,23,34,14,30,n.a.
+89,Semtech,SMTC,Electronics-Semiconductor Fabless Mfg,62.56,94,51,78,A,-2,17,28,51,n.a.
+90,EBAY,EBAY,Retail-Internet,62.46,89,88,76,A,22,75,14,0,0.9
+91,American Tower,AMT,Finance-Property REIT,62.32,95,78,95,A,23,37,20,65,1.7
+92,Sun Communities,SUI,Finance-Property REIT,62.29,95,84,88,B,14,3,99,61,1.6
+93,Centerspace,CSR,Finance-Property REIT,62.27,88,90,53,C,n.a.,1,6,436,2.8
+94,Hologic,HOLX,Medical-Systems/Equipment,62.26,98,79,96,A,58,44,42,77,n.a.
+95,Flex,FLEX,Electronic-Contract Mfg,62.25,88,71,83,B,13,25,23,100,n.a.
+96,Tractor Supply,TSCO,Retail/Wholesale Building Products,62.21,89,78,87,A,27,46,13,10,1.1
+97,Chipotle,CMG,Retail-Restaurants,62.12,99,89,98,B,21,16,39,1765,n.a.
+98,Zoetis,ZTS,Medical-Ethical Drugs,62.06,95,80,91,A,14,57,26,34,0.5
+99,Gentherm,THRM,Auto/Truck Original Equipment,61.95,92,88,77,A,12,14,96,383,n.a.
+100,Ameriprise,AMP,Finance-Investment Banks,61.89,89,84,79,A,,,,,
